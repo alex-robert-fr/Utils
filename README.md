@@ -5,6 +5,7 @@
 
 [Cheat Sheet](https://azeria-labs.com/assembly-basics-cheatsheet/)
 
+[Instruction x86](https://fr.wikipedia.org/wiki/Jeu_d%27instructions_x86)
 
 ## OS
 [Writing a Simple OS](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
