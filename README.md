@@ -9,5 +9,7 @@
 
 [Instruction x86 SHR](https://www.aldeid.com/wiki/X86-assembly/Instructions/shr)
 
+[ASM Doc](http://vitaly_filatov.tripod.com/ng/asm/)
+
 ## OS
 [Writing a Simple OS](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
