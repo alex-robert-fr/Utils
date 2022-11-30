@@ -13,3 +13,5 @@
 
 ## OS
 [Writing a Simple OS](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
+
+[Old Linux](http://www.oldlinux.org/)
