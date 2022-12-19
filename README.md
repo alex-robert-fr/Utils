@@ -18,5 +18,7 @@
 
 [Old Linux](http://www.oldlinux.org/)
 
+[Operating Systems: From 0 to 1](https://www.dbooks.org/operating-systems-from-0-to-1-5605821095/pdf/)
+
 ## BINARY
 [Division and modulo](https://www.jacksondunstan.com/articles/1946)
