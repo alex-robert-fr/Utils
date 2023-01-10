@@ -22,3 +22,6 @@
 
 ## BINARY
 [Division and modulo](https://www.jacksondunstan.com/articles/1946)
+
+## DEBUG
+[Valgrind](https://sourcesup.renater.fr/wiki/atelieromp/_media/atelier20180226_lroblou_valgrind.pdf)
